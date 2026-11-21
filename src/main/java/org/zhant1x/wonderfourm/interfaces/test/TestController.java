@@ -12,6 +12,6 @@ public class TestController {
 
     @GetMapping
     public String test() {
-        return "wonderful";
+        return "wonder to live";
     }
 }
